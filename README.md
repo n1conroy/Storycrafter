@@ -1,6 +1,6 @@
 # 📚 StoryCrafter
 
-An AI-powered interactive storytelling app for library patrons and kids! Co-write a choose-your-own-adventure tale with GPT or Claude.
+StoryCrafter AI-powered interactive storytelling app for library patrons and kids! Co-write a choose-your-own-adventure tale with GPT or Claude.
 
 ## ✨ Features
 - Pick your genre, character, and story twist
